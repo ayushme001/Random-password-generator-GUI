@@ -31,7 +31,13 @@ void do_calculate(GtkWidget *calculate, gpointer data) {
     gtk_label_set_text(GTK_LABEL(result), c);
 }
 
-// gcc 007_gtk.c -o 007_gtk `pkg-config --cflags gtk+-3.0` `pkg-config --libs gtk+-3.0`
+
+//for compiling use - 
+// gcc random.c -o random `pkg-config --cflags gtk+-3.0` `pkg-config --libs gtk+-3.0`
+
+
+
+
 int main(int argc, char **argv) { 
     GtkWidget *window, *grid, *calculate;
     gtk_init(&argc, &argv);

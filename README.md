@@ -1,3 +1,5 @@
+
+
 # Random-password-generator
 
 To prevent your passwords from being hacked by social engineering, brute force or dictionary attack method, and keep your online accounts safe, you should notice that:
@@ -13,3 +15,8 @@ To prevent your passwords from being hacked by social engineering, brute force o
 8. Do not let your Web browsers( FireFox, Chrome, Safari, Opera, IE ) to store your passwords, since all passwords saved in Web browsers can be revealed easily.
 9. Do not log in to important accounts on the computers of others, or when connected to a public Wi-Fi hotspot, Tor, free VPN or web proxy.
 10. Do not send sensitive information online via unencrypted( e.g. HTTP or FTP ) connections, because messages in these connections can be sniffed with very little effort. You should use encrypted connections such as HTTPS, SFTP, FTPS, SMTPS, IPSec whenever possible.
+
+
+# GUI Deployment still in progress
+
+# .exe file for this application still in progress

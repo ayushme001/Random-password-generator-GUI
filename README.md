@@ -16,9 +16,9 @@ To prevent your passwords from being hacked by social engineering, brute force o
 9. Do not log in to important accounts on the computers of others, or when connected to a public Wi-Fi hotspot, Tor, free VPN or web proxy.
 10. Do not send sensitive information online via unencrypted( e.g. HTTP or FTP ) connections, because messages in these connections can be sniffed with very little effort. You should use encrypted connections such as HTTPS, SFTP, FTPS, SMTPS, IPSec whenever possible.
 
-![alt text](https://github.com/ayushme001/Random-password-generator-GUI/blob/master/Screen%20Shot%202018-02-07%20at%2002.13.01.png)
+![alt text](https://github.com/ayushme001/Random-password-generator-GUI/blob/master/images/Screen%20Shot%202018-02-07%20at%2002.13.01.png)
 
-![alt text](https://github.com/ayushme001/Random-password-generator-GUI/blob/master/Screen%20Shot%202018-02-07%20at%2002.13.51.png)
+![alt text](https://github.com/ayushme001/Random-password-generator-GUI/blob/master/images/Screen%20Shot%202018-02-07%20at%2002.13.51.png)
 
 
 
